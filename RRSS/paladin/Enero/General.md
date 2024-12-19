@@ -3,7 +3,7 @@ Aquí tienes un calendario mensual para enero de 2025, diseñado específicament
 | Fecha       | Tipo de Contenido | Idea de Contenido                                         | Título Gancho                      | Palabras Clave                      |
 | ----------- | ----------------- | --------------------------------------------------------- | ---------------------------------- | ----------------------------------- |
 | 01 de enero | Reels             | Resumen de tendencias web para 2025                       | ¡Empieza el año con estilo!        | Tendencias, diseño web, 2025        |
-| 04 de enero | Carrusel          | [[Hola mundo]]                 | ¡No caigas en estas trampas!       | Errores, diseño web, consejos       |
+| 04 de enero | Carrusel          | 5 errores comunes al crear una página web                 | ¡No caigas en estas trampas!       | Errores, diseño web, consejos       |
 | 06 de enero | Single Post       | Importancia de un buen diseño web para negocios           | Tu web, tu carta de presentación   | Diseño, negocios, primera impresión |
 | 13 de enero | Thread            | Cómo elegir el CMS adecuado para tu negocio               | Elige sabiamente tu CMS            | CMS, elección, negocio              |
 | 16 de enero | Reels             | Tips rápidos para mejorar la velocidad de carga de tu web | ¡Carga más rápido, atrae más!      | Velocidad, carga, optimización      |
