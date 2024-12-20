@@ -10,7 +10,7 @@
 #### 04 de enero
 
 - **Tipo de Contenido:** Carrusel
-- **Idea de Contenido:** 5 consejos para organizar tu tiempo de estudio
+- **Idea de Contenido:** [[5 consejos para organizar tu tiempo de estudio]]
 - **Título Gancho:** ¡Organiza tu tiempo como un pro!
 - **Palabras Clave:** Organización, estudio, consejos
 
