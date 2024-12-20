@@ -3,7 +3,7 @@
 #### 01 de enero
 
 - **Tipo de Contenido:** Reels
-- **Idea de Contenido:** Las mejores herramientas educativas para 2025
+- **Idea de Contenido:** [[Las mejores herramientas educativas para 2025]]
 - **Título Gancho:** ¡Comienza el año con las mejores herramientas!
 - **Palabras Clave:** Herramientas, educación, 2025
 
